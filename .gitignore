@@ -1,0 +1,8 @@
+*.fig
+*.png
+*.jpg
+*.ttf
+*.otf
+index-*.html
+.DS_Store
+.claude/
